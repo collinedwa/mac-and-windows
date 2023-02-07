@@ -1,0 +1,27 @@
+.laptops{
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+    border: 3px solid #000000;
+}
+
+.laptops ul{
+    text-align: left;
+}
+
+.laptops ol{
+  text-align: left;
+}
+
+.laptops img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+}
+
+.laptop-images p{
+  border: 3px solid blue;
+}
